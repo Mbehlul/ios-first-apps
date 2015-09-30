@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         coolLogo.hidden = true
         coolBg.hidden = true
         notCoolButton.hidden = true
-        
     }
+    // açıklama
 }
 
